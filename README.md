@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpanchavati9&label=Profile%20views&color=0e75b6&style=flat" alt="kiranpanchavati9" /> </p>
 
-- Hi, I'm currently working on **Splunk**
+- 🔭 I’m currently working on **Splunk**
 
 - 🌱 I’m currently learning **Data Science/Machine Learning**
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpanchavati9&show_icons=true&locale=en" alt="kiranpanchavati9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranpanchavati9&" alt="kiranpanchavati9" /></p>
-
