@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on **Splunk - Cyber Security SIEM** || **Palo Alto Cortex XSOAR** || **Microsoft Sentinel SIEM** || **FortiSOAR** || **GeminiData** ||
 
-
-- 🌱 I’m currently learning **Data Science/Machine Learning**
-
 - 📫 How to reach me **kiranpanchavati9@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
