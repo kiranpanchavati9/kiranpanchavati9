@@ -85,5 +85,3 @@
 > _"Logs never lie — they reveal the truth when queried right!"_ 😄
 
 ---
-
-⭐️ *Feel free to explore my repositories and drop a star if you find something helpful!*  
