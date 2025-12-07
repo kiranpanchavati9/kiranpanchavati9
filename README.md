@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Panchavati</h1>
-<h3 align="center">Splunk Consultant | Cyber Security | SOC Automation | Based in Dubai 🇦🇪</h3>
+<h3 align="center">Splunk Consultant | Cyber Security | SOC Automation | Based in UAE 🇦🇪</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiranpanchavati9&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
