@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Panchavati</h1>
-<h3 align="center">Splunk Consultant | Cyber Security | DevSecOps | SOAR Automation | Based in Abu Dhabi 🇦🇪</h3>
+<h3 align="center">Splunk Consultant | Cyber Security Engineer | DevSecOps | SOAR Automation | Based in Abu Dhabi 🇦🇪</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiranpanchavati9&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🔭 Currently working on:
+- 🔭 Currently Working On:
   - **Splunk Enterprise Security (SIEM)**
   - **Palo Alto Cortex XSOAR**
   - **Microsoft Sentinel**
@@ -17,7 +17,6 @@
   - **Gemini Data**
 
 - 📫 Reach me: **kiranpanchavati9@gmail.com**
-
 - ⚡ Fun Fact: *My SIEM alerts laugh at my jokes 😅*
 
 ---
@@ -58,7 +57,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="Google Cloud"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40" alt="Helm"/>
@@ -67,15 +66,19 @@
 
 ---
 
-### 📊 GitHub Stats 📈
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiranpanchavati9&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranpanchavati9&layout=compact&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiranpanchavati9&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranpanchavati9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranpanchavati9&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranpanchavati9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranpanchavati9&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
