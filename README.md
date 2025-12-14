@@ -10,14 +10,14 @@
 ### 🌟 About Me
 
 - 🔭 Currently Working On:
-  - **Splunk Enterprise Security (SIEM)**
+  - **Splunk**
+  - **FortiSOAR**
   - **Palo Alto Cortex XSOAR**
   - **Microsoft Sentinel**
-  - **FortiSOAR**
   - **Gemini Data**
+  - **DevOps**
 
 - 📫 Reach me: **kiranpanchavati9@gmail.com**
-- ⚡ Fun Fact: *My SIEM alerts laugh at my jokes 😅*
 
 ---
 
